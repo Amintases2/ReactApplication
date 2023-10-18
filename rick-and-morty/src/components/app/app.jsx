@@ -12,7 +12,7 @@ class App extends React.Component {
 
     render() {
         return (
-            <BrowserRouter basename="/react-rick-morty">
+            <BrowserRouter>
                 <Header/>
                 <Routes>
 
